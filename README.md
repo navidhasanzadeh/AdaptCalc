@@ -2,6 +2,9 @@
 
 **AdaptCalc** is a self-modifying calculator written in Python. It serves as a **prototype** for **general adaptive smart applications** that can reshape themselves on demand based on user input. AdaptCalc uses **Large Language Models (LLMs)** (via the OpenAI API) for dynamic **code generation**, enabling it to evolve its own source code at runtime.
 
+![alt text](adaptcalc.png "Adaptive Smart Applications")
+
+
 The software automatically creates time-stamped backups of its code before and after each modification or revert, and it includes a separate tool for reverting to a previous backup if the main program becomes unusable.
 
 > **Warning**: Because AdaptCalc can overwrite its own source code based on user prompts, it should be used cautiously. Malicious or invalid code could break or compromise your system. Only use it in a controlled environment and always keep external backups.
