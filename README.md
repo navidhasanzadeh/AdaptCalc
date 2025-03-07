@@ -47,6 +47,9 @@ AdaptCalc demonstrates the potential of **LLMs** in **reshaping** how future app
    pip install PySide6
    pip install openai
 
-4. **Run**  
+4. **OpenAI API Key**  
+   Get the API key from [here](https://platform.openai.com/api-keys).
+   
+6. **Run**  
    ```bash
    python adaptcalc.py
