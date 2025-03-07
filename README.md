@@ -40,7 +40,7 @@ AdaptCalc demonstrates the potential of **LLMs** in **reshaping** how future app
    Ensure you have Python 3.7+ (ideally 3.9 or newer).
 
 2. **Clone or Download**  
-   Clone this repository or download the source code (including `adaptcalc.py`, `revert_tool.py`, and the icon file `calculator.png`).
+   Clone this repository or download the source code (including `adaptcalc.py`, and `revert_tool.py`).
 
 3. **Install Required Libraries**  
    ```bash
